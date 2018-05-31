@@ -1,0 +1,19 @@
+html, body{
+	color: #777777;
+	font-size: 20px;
+	line-height: 40px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;  
+    height: 100%;  	
+}
+
+#game{
+	text-align: left;
+}
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;	
+}
+
